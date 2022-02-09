@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DellFonda
-- 👀 I’m interested in Software Engineering/Development.
-- 🌱 I’m currently learning Back-End Engineering through Codecademy.
+- 👀 I’m interested in DevOps.
+- 🌱 I’m currently improving my Python skills.
 - 💞️ I’m looking to collaborate on beginner-level projects that could strengthen my skills.
 - 📫 You can reach me on LinkedIn at https://www.linkedin.com/in/dellfonda/
 
